@@ -7,12 +7,6 @@
  - Selenium==3.7.0
  - [Gecko Driver](https://github.com/mozilla/geckodriver/releases)
 
-
-## disclaimer
-
-THIS IS FOR DEMONSTRATIVE PURPOSES ONLY.
-
-DO NOT USE ON REAL VICTIMS FOR ANY REASON. CRIMINAL LAW WILL APPLY.
  
 ## usage
 clone the repo:
