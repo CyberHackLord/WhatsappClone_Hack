@@ -29,7 +29,7 @@ first run the grabber
     python3 grabber.py
     
 then run the server
-
+ 
     python3 server.py
     
     
